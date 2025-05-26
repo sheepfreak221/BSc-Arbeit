@@ -1,4 +1,4 @@
-# Bachelorarbeit: CRISPR-basiertes Promotor-Knock-in in *Acetobacterium woodii*
+# Bachelorarbeit: Exploring possibilities for 2-butanol production in A. woodii by exchange of the Adh4 promoter
 
 Dieses Repository enthält alle relevanten Inhalte zur Bachelorarbeit:  
 von der Datenauswertung über Diagramme bis hin zur Vorbereitung der Abschlusspräsentation.
