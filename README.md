@@ -25,7 +25,7 @@ von der Datenauswertung über Diagramme bis hin zur Vorbereitung der Abschlusspr
 - [ ] Diagramme in Präsentation einbauen
 
 ### 📄 Schriftliche Arbeit *(via Overleaf)*
-- [ ] Abstract (englisch, kurz & prägnant)
+- [x] Abstract (englisch, kurz & prägnant)
 - [ ] Einführung: CRISPR, Golden Gate, Zielsetzung
 - [ ] Methodik: inkl. Workflow-Folie (BioRender!)
 - [ ] Ergebnisse: Diagramme + Nullresultat bei Butanol
