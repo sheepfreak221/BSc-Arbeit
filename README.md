@@ -27,12 +27,12 @@ von der Datenauswertung über Diagramme bis hin zur Vorbereitung der Abschlusspr
 ### 📄 Schriftliche Arbeit *(via Overleaf)*
 - [x] Abstract (englisch, kurz & prägnant)
 - [ ] Einführung: CRISPR, Golden Gate, Zielsetzung
-- [ ] Methodik: inkl. Workflow-Folie (BioRender!)
+- [ ] Methodik: eventuell inkl. Workflow-Folie (BioRender!)
 - [ ] Ergebnisse: Diagramme + Nullresultat bei Butanol
 - [ ] Diskussion: mögliche Gründe für Scheitern, nächstes Vorgehen
 - [ ] Ausblick: alternative Promotoren, andere ADHs etc.
 - [ ] Literaturverzeichnis (BibTeX aktuell halten)
-- [ ] Feedback von Betreuerin einarbeiten
+- [ ] Feedback einarbeiten
 - [ ] Korrekturlesen & Abgabevorbereitung
 
 ### 🖥️ Präsentation (15 Minuten)
@@ -118,4 +118,4 @@ von der Datenauswertung über Diagramme bis hin zur Vorbereitung der Abschlusspr
 
 ---
 
-Letzte Änderung: _(automatisch generiert am)_ 📅 `2025-05-21`
+Letzte Änderung: _(automatisch generiert am)_ 📅 `26.05.2025`
