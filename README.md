@@ -118,4 +118,4 @@ von der Datenauswertung über Diagramme bis hin zur Vorbereitung der Abschlusspr
 
 ---
 
-Letzte Änderung: _(automatisch generiert am)_ 📅 `26.05.2025`
+Letzte Änderung:`26.05.2025`
