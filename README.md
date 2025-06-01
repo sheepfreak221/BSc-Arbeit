@@ -1,4 +1,4 @@
-# Bachelorarbeit: CRISPR-basiertes Promotor-Knock-in in *Acetobacterium woodii*
+# Bachelorarbeit: Exploring possibilities for 2-butanol production in A. woodii by exchange of the Adh4 promoter
 
 Dieses Repository enthält alle relevanten Inhalte zur Bachelorarbeit:  
 von der Datenauswertung über Diagramme bis hin zur Vorbereitung der Abschlusspräsentation.
@@ -25,14 +25,14 @@ von der Datenauswertung über Diagramme bis hin zur Vorbereitung der Abschlusspr
 - [ ] Diagramme in Präsentation einbauen
 
 ### 📄 Schriftliche Arbeit *(via Overleaf)*
-- [ ] Abstract (englisch, kurz & prägnant)
+- [x] Abstract (englisch, kurz & prägnant)
 - [ ] Einführung: CRISPR, Golden Gate, Zielsetzung
-- [ ] Methodik: inkl. Workflow-Folie (BioRender!)
+- [ ] Methodik: eventuell inkl. Workflow-Folie (BioRender!)
 - [ ] Ergebnisse: Diagramme + Nullresultat bei Butanol
 - [ ] Diskussion: mögliche Gründe für Scheitern, nächstes Vorgehen
 - [ ] Ausblick: alternative Promotoren, andere ADHs etc.
 - [ ] Literaturverzeichnis (BibTeX aktuell halten)
-- [ ] Feedback von Betreuerin einarbeiten
+- [ ] Feedback einarbeiten
 - [ ] Korrekturlesen & Abgabevorbereitung
 
 ### 🖥️ Präsentation (15 Minuten)
@@ -118,4 +118,4 @@ von der Datenauswertung über Diagramme bis hin zur Vorbereitung der Abschlusspr
 
 ---
 
-Letzte Änderung: _(automatisch generiert am)_ 📅 `2025-05-21`
+Letzte Änderung:`26.05.2025`
