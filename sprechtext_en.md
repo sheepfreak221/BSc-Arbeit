@@ -1,7 +1,7 @@
 # Sprechtext zu den Folien
 
 ## Slide 1
-Hi I am Thomas and my topic is:
+Hi I am Thoma and my topic is:
 “Exploring possibilities for 2-butanol production in A. woodii by exchange of the Adh4 promoter”.
 
 Today I’ll show you how I tried to produce 2-butanol in A. woodii using a genetic approach – and why that matters.
@@ -101,8 +101,7 @@ Cas9 cuts the A. woodii genome exactly at the target site specified by the sgRNA
 3.) The cell then repairs the break via homologous recombination — using the template DNA we provided — and integrates the new, stronger promoter.
 
 4.) Now we have our modified A. woodii strains!
-We transformed both the wild type (TU2.0) and a knockout strain, Δaco1, in which the pduCDE genes are deleted.
-This knockout should be unable to produce MEK — and therefore also 2-butanol.
+We transformed A. woodii with the modified promoter plasmid
 
 5.) The transformed cells were plated, and colonies were allowed to grow.
 This took about two weeks, since A. woodii grows relatively slowly — one reason why we built the plasmid in E. coli first.
@@ -158,11 +157,17 @@ So, now we come to the HPLC measurements
 
 ## Slide 13
 
+ Here we see both A. woodii strains grown on 2,3-butanediol as the sole carbon source. The curves are very similar, although the strain with the pta promoter seems to react slightly faster. However, it's unclear whether this is due to the stronger promoter. Both strains produce similar amounts of 2-butanol, but the data shows high variability—likely because our HPLC setup isn’t optimized for such low concentrations. As expected, 2,3-butanediol is initially converted into MEK and acetate, and the product ratios remain relatively stable over time.
+
 ## Slide 14
+
+ This diagram shows the same basic trend for 2,3-butanediol, but now we’ve added 1,2-propanediol. It’s converted into propionate and 1-propanol in nearly equal ratios. What stands out is that the presence of 1,2-propanediol significantly increases 2-butanol production, as expected. The difference between the two conditions is clear and consistent, indicating that 1,2-propanediol enhances reductive conversion.
 
 ## Slide 15
 
-## Slide 16
+ In this final experiment, we directly added MEK and used hydrogen instead of nitrogen. The reaction proceeded much more slowly, and we consistently detected propanal over several timepoints – a known intermediate that can be further reduced to 1-propanol and propionate. Interestingly, this intermediate was never observed in the nitrogen condition. Also, contrary to expectations, the MEK concentration remained unchanged. Instead, we saw a sharp increase in formate and acetate levels, most likely due to carbonate in the medium being metabolized – possibly because it's the energetically most favorable option for A. woodii.
+
+(## Slide 16 fliegt raus)
 
 ## Slide 17
 
