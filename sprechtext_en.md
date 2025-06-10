@@ -1,7 +1,7 @@
 # Sprechtext zu den Folien
 
 ## Slide 1
-Hi I am Thoma and my topic is:
+Hi I am Thomas and my topic is:
 “Exploring possibilities for 2-butanol production in A. woodii by exchange of the Adh4 promoter”.
 
 Today I’ll show you how I tried to produce 2-butanol in A. woodii using a genetic approach – and why that matters.
