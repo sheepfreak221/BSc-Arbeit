@@ -126,7 +126,7 @@ The wild-type strains were tested on:
 
    - 2,3-butanediol with methanol
 
-   - 1,2-propanediol
+   - 2,3-butanediol with 1,2-propanediol
 
    - and 2,3-butanediol with ethylene glycol.
 
