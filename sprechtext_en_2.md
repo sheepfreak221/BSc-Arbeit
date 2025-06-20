@@ -6,28 +6,42 @@ Hi I am Thomas and my topic is:
 
 Today I’ll show you how I tried to produce 2-butanol in A. woodii using a genetic approach – and why that matters.
 
-## Slide 2 - A. woodii
-First, let me tell you about the star of my project – Acetobacterium woodii!
-It’s an anaerobic bacterium that can fix CO₂ through the Wood-Ljungdahl pathway.
-It can also produe acetate and mek from 2,3-butanediol via acetyl-CoA.
-However, it doesn't produce any 2-butanol.
-it grows well without oxygen, it’s easy to genetically modify, and it's safe to handle because it doesn't produce toxic byproducts.
 
 
-## Slide 3 - Background of the Project
-Alright, now that’s clear — what’s my project actually about?
+## Slide 2 - Background of the Project
+First, let me tell you - what’s my project actually about?
 
-It’s simple: A. woodii can theoretically reduce 2,3-butanediol to 2-butanol — but it gets stuck at an intermediate called MEK.
+It’s simple: A. woodii can theoretically reduce 2,3-butanediol to 2-butanol 
 So the goal is:
-a) to understand why it stops there, and
-b) to modify A. woodii so the full reduction works.
+
+- modify A. woodii so the full reduction works
+
+When we look at the pathway, we see that butanediol can be converted to acetate and to butanol — but the butanol part gets stuck!
+
+- So the second point is to find out why that happens.
 
 Why does that matter?
 Because 2-butanol is a promising biofuel — it has more energy than ethanol and could replace fossil fuels.
 And using the Wood-Ljungdahl pathway, we can couple its production directly to CO₂ fixation.
 
-## Slide 4 - Crispr 
-We want to modify the genom of a woodii and for this we used crispr and goldengate 
+## Slide 3 - A. woodii
+Alright, now that’s clear — let me tell you about the star of my project – Acetobacterium woodii!
+It’s an anaerobic bacterium that can fix CO₂ through the Wood-Ljungdahl pathway.
+It can also produe acetate and mek from 2,3-butanediol via acetyl-CoA.
+However, it doesn't produce any 2-butanol.
+it grows well without oxygen, it’s easy to genetically modify, and it's safe to handle because it doesn't produce toxic byproducts.
+
+## Slide 4 - Aim of the work
+
+The goal of this project was to boost the expression of adh4 by replacing its native promoter with a stronger one.
+When we look at this picture, we see that ADH4, can reduce both propanediol and butanediol.
+The reduction to propanol works well — so now we test if this reaction can support or trigger the reduction of butanediol to butanol as well.
+
+And finally, we checked if adding hydrogen helps to shift the redox balance in favor of 2-butanol production.
+
+## Slide 5 - Crispr 
+We want to modify the genom of a woodii and for this we used two tools - the first is the crispr/cas system. 
+
 CRISPR stands for Clustered Regularly Interspaced Short Palindromic Repeats.
 It’s part of the adaptive immune system in bacteria and archaea.
 Cas proteins like Cas9 can cut DNA at specific sites, making it possible to edit genomes very precisely—either to knock out or insert genes.
@@ -35,7 +49,7 @@ The method was developed by Emmanuelle Charpentier and Jennifer Doudna and publi
 They received the Nobel Prize in Chemistry in 2020—and honestly, it’s no surprise.
 CRISPR has completely revolutionized molecular biology, medicine, and biotechnology.
 
-## slide 5 . Crispr (genau erklären)
+## slide 6 . Crispr (genau erklären)
 
 1.) Here you can see how we used the CRISPR/Cas system in our project.
 First, we create a single guide RNA – the sgRNA – which acts as our spacer to target a specific DNA sequence.
@@ -51,19 +65,15 @@ During this process, the new, stronger promoter is inserted.
 4.)  As a result, the repaired DNA now contains exactly the genetic modification we intended –
 a stronger promoter in place of the native one. 
 
-## Slide 6 - Goldengate
+## Slide 7 - Goldengate
 to assembly the crispr editing vectors we used golden gate assembly
 Golden Gate is a fast and efficient method for assembling DNA.
-It uses Type IIS enzymes like Esp3I, which cut outside of their recognition sites.
+It uses Type 2 S enzymes like Esp3I, which cut outside of their recognition sites.
 This allows us to design custom overhangs— so the fragments fit together like puzzle pieces.
 Because of that, we can ligate them seamlessly and in the right direction.
 It’s super handy for building modular constructs.
 
-## Slide 7 - Aim of the work
 
-The goal of this project was to boost the expression of adh4 by replacing its native promoter with a stronger one.
-Then we tested if the modified strain can produce 2-butanol when 2,3-butanediol or another diol is used as a cosubstrate.
-And finally, we checked if adding hydrogen helps to shift the redox balance in favor of 2-butanol production.
 
 ## Slide 8 - workflow
 
@@ -125,34 +135,14 @@ we studied the growth of A. woodii and its 2-butanol production on different sub
 
 The wild-type strains were tested on:
 
-   - 2,3-butanediol alone
+   - 2,3-butanediol alone and 2,3-butanediol with 1,2-propanediol
 
-   - 2,3-butanediol with methanol
+The modified strains were tested on:
 
-   - 2,3-butanediol with 1,2-propanediol
-
-   - and 2,3-butanediol with ethylene glycol.
-
-The modified strains were tested only on:
-
-   - 2,3-butanediol alone
-
-   - and 2,3-butanediol with methanol.
-
-Additionally, cultures were grown on:
-
-   - 2,3-butanediol alone
-
-   - 2,3-butanediol with methanol
-
-   - and directly with MEK and 1,2-propanediol,
-
-but here the nitrogen atmosphere was replaced by hydrogen
-to shift the redox balance toward 2-butanol production.
+   - 2,3-butanediol alone and directly with MEK and 1,2-propanediol but here the nitrogen was replaced by hydrogen 
 
 From all cultures,
-we measured optical density at 600 and 660 nm to monitor cell growth — 660 nm was used because of the indicator dye —
-and performed HPLC analysis to quantify the metabolites produced.
+we measured optical density at 600 nm to monitor cell growth and performed HPLC analysis to quantify the metabolites produced.
 
 ## Slide 12 
 
